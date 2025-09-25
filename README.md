@@ -47,3 +47,56 @@ A wireframe typically includes the following essential elements:
 Each element ensures that the final design is **logical, user-friendly, and aligned with project goals**.
 
 ---
+
+---
+
+## Types of Wireframes  
+
+Wireframes can be categorized into two main types based on their level of detail and purpose in the design process:  
+
+### 1. Low-Fidelity Wireframes  
+
+- **Description:**  
+  Low-fidelity wireframes are simple, rough sketches or basic digital layouts that focus on structure, content placement, and overall user flow rather than design details.  
+
+- **Characteristics:**  
+  - Minimal styling  
+  - Placeholder content like boxes or "Lorem Ipsum" text  
+  - Simple shapes representing UI elements  
+
+- **When to Use:**  
+  - Early stages of design  
+  - Brainstorming ideas and gathering feedback quickly  
+  - Validating layout and functionality before investing in detailed visuals  
+
+- **Example Use Case:**  
+  Sketching a quick outline of a landing page to discuss navigation flow with stakeholders.  
+
+---
+
+### 2. High-Fidelity Wireframes  
+
+- **Description:**  
+  High-fidelity wireframes are more polished and detailed versions, often close to the final design, showing colors, typography, real content, and precise spacing.  
+
+- **Characteristics:**  
+  - Realistic visuals  
+  - Detailed content placement  
+  - Interactivity and clickable prototypes  
+
+- **When to Use:**  
+  - Later stages of design before development  
+  - Usability testing with realistic user interactions  
+  - Presenting design concepts to clients and decision-makers  
+
+- **Example Use Case:**  
+  Creating an interactive prototype of an e-commerce checkout page to test the user experience before coding begins.  
+
+---
+
+**Key Difference:**  
+- *Low-fidelity wireframes* focus on **speed and collaboration** to test ideas quickly.  
+- *High-fidelity wireframes* focus on **visual accuracy and interactivity** before development begins.  
+
+
+The Prototype provided in the Task Description is a High Fidelity Wireframe that can be used as a basis to write a functional code as it has all components where they are supposed to be and also they have the necessary placements and colors including the fonts to be used.
