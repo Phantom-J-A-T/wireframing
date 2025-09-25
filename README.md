@@ -100,3 +100,36 @@ Wireframes can be categorized into two main types based on their level of detail
 
 
 The Prototype provided in the Task Description is a High Fidelity Wireframe that can be used as a basis to write a functional code as it has all components where they are supposed to be and also they have the necessary placements and colors including the fonts to be used.
+
+---
+
+## Popular Wireframing Tools  
+
+Several tools are available to create wireframes, each offering different features to suit various design needs. Some of the most commonly used tools include:  
+
+- **Figma**  
+- **Sketch**  
+- **Adobe XD**  
+- **Balsamiq**  
+- **InVision**  
+- **Axure RP**  
+
+---
+
+### Figma: Recommended Tool for Wireframing  
+
+**Figma** is a popular, web-based design and prototyping tool widely used for wireframing, UI/UX design, and collaboration.  
+
+**Key Features of Figma:**  
+- **Real-Time Collaboration:** Multiple team members can work on the same file simultaneously, similar to Google Docs.  
+- **Cross-Platform Accessibility:** Works on any operating system through a browser or desktop app.  
+- **Pre-Built UI Components:** Offers templates and reusable components to speed up wireframing.  
+- **Version Control:** Tracks design history, allowing easy rollback to previous versions.  
+- **Prototyping Capabilities:** Create interactive prototypes without needing third-party tools.  
+
+**Why Figma is Useful for Wireframing:**  
+- Simplifies the design workflow by combining wireframing, prototyping, and collaboration in one platform.  
+- Enables quick feedback and iteration cycles, reducing communication gaps between designers, developers, and stakeholders.  
+- Supports both low-fidelity and high-fidelity wireframes, making it versatile throughout the design process.  
+
+---
